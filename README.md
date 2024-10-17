@@ -1,42 +1,42 @@
-# Customer Segmentation Using Machine Learning
+### Customer Segmentation Using Machine Learning
 This project utilizes machine learning algorithms to segment customers based on their demographic and transactional data. The goal is to increase sales and optimize marketing efforts.
 
-# Dataset
+### Dataset
 Mall Customers dataset
 Variables: CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100)
 Machine Learning Algorithm
 K-Means Clustering
 
-# Libraries Used
+### Libraries Used
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Scikit-learn
 
-# Project Structure
+### Project Structure
 Data Preprocessing
 Data Visualization
 K-Means Clustering
 Elbow Method for Optimal K
 Customer Segmentation
 
-# Insights and Findings
+### Insights and Findings
 Gender distribution: Male-Female ratio
 Age distribution: Frequent age groups
 Spending scores: Majority of customers spend between 41-60
 Annual income: Majority of customers earn between 61-90k$
 
-# Customer Segmentation
+### Customer Segmentation
 5 clusters identified using K-Means algorithm
 Clusters represent distinct customer segments based on spending scores and annual income
 
-# Advantages of Customer Segmentation
+### Advantages of Customer Segmentation
 Set Appropriate Pricing
 Customize Marketing Campaigns
 Optimize Distribution Strategy
 Deploy Specific Product Features
 Prioritize New Product Development
 
-# Author
+### Author
 Farhan Ashraf
